@@ -30,7 +30,7 @@ export default function Home() {
               href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
-              Learning
+              Learning  dfaslkfjaldf
             </a>{" "}
             center.
           </p>
@@ -57,6 +57,9 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
+            shubham change in documentation
+            shubham change in documentation second commit 
+            shubham change in documentation third commit 
             Documentation with some changes
           </a>
         </div>

@@ -18,8 +18,9 @@ export default function Home() {
 
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
+            Looking for a starting podfasfa int or more instructions? Head over asdfdasfasfafto{" "}
+            nesxt conniasdflkdajslf fasjdflkadjsf
+            <a 
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
@@ -50,6 +51,7 @@ export default function Home() {
               height={16}
             />
             Deploy Now
+            commit after main branch pull 
           </a>
           <a
             className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
@@ -58,6 +60,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             Documentation with some changes
+            ajdflasjfdlka
           </a>
         </div>
       </main>
